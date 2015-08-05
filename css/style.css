@@ -1,0 +1,30 @@
+h1{
+  /*Center all text in an h1 tag*/
+  text-align : center;
+}
+
+h2{
+  /*Make all text in an h2 tag bold and purple*/
+  font-weight : bold;
+  color : purple;
+}
+
+p{
+  /*Align all text in p-tags to the right side of the sceen*/
+  text-align : right;
+}
+
+body{
+  /*Set the background color of the body to be seafoam*/
+  background-color : #A7FFB5;
+}
+
+span.BigText{
+  /*Use this selector to make the text in the word Raven three times as large as it normally is*/
+  font-size : 300%;
+}
+
+p#FinalLine{
+  /*Underline the last line of the poem using this selector*/
+  text-decoration : underline;
+}
